@@ -4,8 +4,10 @@
 
 # 🚀 Microsoft Dynamics 365 Finance & Operations  
 ## Complete Learning & Real-World Project Framework (Nubiq)
+
 ![GitHub stars](https://img.shields.io/github/stars/NubiqPro/nubiq-d365fo-learning-framework?style=social)
 ![License](https://img.shields.io/badge/license-MIT-blue)
+
 ---
 
 ## 🧭 Framework Architecture
@@ -42,11 +44,12 @@
 Learning Microsoft Dynamics 365 Finance & Operations (D365 F&O) can often feel overwhelming.
 
 Most available learning resources today are:
+
 - Scattered across blogs and videos  
 - Focused heavily on theory  
 - Missing real-world project context  
 
-👉 This repository provides a **structured, real-world learning path** designed to simulate actual D365 F&O project experience.
+This repository provides a **structured, real-world learning path** designed to simulate actual D365 F&O project experience.
 
 ---
 
@@ -66,7 +69,7 @@ If you're new, follow this guided path:
 4. 🧪 Practice [Testing & UAT](./04-Testing-UAT)  
 5. 📚 Explore [Reference](./06-Reference)  
 
-👉 This sequence mirrors how real D365 F&O projects are executed in enterprise environments.
+This sequence mirrors how real D365 F&O projects are executed in enterprise environments.
 
 ---
 
@@ -74,20 +77,22 @@ If you're new, follow this guided path:
 
 - Finance Functional (GL, AP, AR)  
 - Supply Chain Functional (Procurement, Inventory, Sales)  
-- Technical (X++, integrations, architecture)  
+- Technical concepts including X++, integrations, and architecture  
 - Hands-on labs with datasets  
 - Real-world project simulation  
 - UAT testing and validation  
-- Troubleshooting & production mindset  
+- Troubleshooting and production mindset  
 
 ---
 
 ## 🧭 Learning Path Structure
 
 ### 🔰 Phase 1 – Foundation
+
 Understand core concepts and modules.
 
 📁 `/01-Foundation`
+
 - Finance Functional Guide  
 - SCM Functional Guide  
 - Technical Guide  
@@ -95,22 +100,27 @@ Understand core concepts and modules.
 ---
 
 ### 🧪 Phase 2 – Hands-On Learning
+
 Build real system skills.
 
 📁 `/02-Hands-On-Labs`
+
 - Step-by-step lab workbook  
 - Blog-based lab guide  
 
 📁 `/05-Datasets`
+
 - Practice dataset  
 - Advanced dataset  
 
 ---
 
 ### 🏢 Phase 3 – Project Simulation
+
 Learn how real implementations work.
 
 📁 `/03-Project-Simulation`
+
 - BRD (Business Requirement Document)  
 - FSD (Functional Specification Document)  
 - TDD (Technical Design Document)  
@@ -119,9 +129,11 @@ Learn how real implementations work.
 ---
 
 ### 🧪 Phase 4 – Testing & Validation
+
 Develop enterprise-level thinking.
 
 📁 `/04-Testing-UAT`
+
 - UAT test cases  
 - Project execution tracker  
 - Error simulation dataset  
@@ -132,6 +144,7 @@ Develop enterprise-level thinking.
 ### 🧠 Phase 5 – Continuous Learning
 
 📁 `/06-Reference`
+
 - Top D365 learning resources  
 
 ---
@@ -149,14 +162,10 @@ The repository is organized into structured phases that align with a real-world 
 05-Datasets/            → Practice datasets and simulation data
 06-Reference/           → Curated learning resources and references
 assets/                 → Images and visual assets used in README
-
+```
 
 Each folder represents a specific phase in the learning journey, designed to mirror real-world D365 F&O implementation stages.
 
-Important: copy it exactly, especially the three backticks before `text` and the three backticks after `assets/`. That is what makes GitHub display it as a clean block instead of a paragraph.
-
-After replacing, click **Preview** before committing. You should see the folder list in a gray boxed format, one line per folder.
-::contentReference[oaicite:0]{index=0}
 ---
 
 ## 🛠️ Technologies Covered
@@ -165,7 +174,7 @@ After replacing, click **Preview** before committing. You should see the folder 
 - X++ Development  
 - Data Management Framework (DMF)  
 - Integrations (API, file-based)  
-- Reporting & Data Pipelines  
+- Reporting and data pipelines  
 
 ---
 
@@ -182,7 +191,7 @@ After replacing, click **Preview** before committing. You should see the folder 
 ## ⏱️ Suggested Timeline
 
 | Phase | Duration |
-|------|--------|
+|------|----------|
 | Foundation | 1–2 Weeks |
 | Hands-On Labs | 2 Weeks |
 | Project Simulation | 2 Weeks |
@@ -209,7 +218,7 @@ By completing this framework, you will be able to:
 - Execute both functional and technical tasks  
 - Participate confidently in real-world implementations  
 - Troubleshoot production issues effectively  
-- Think like a consultant / solution architect  
+- Think like a consultant or solution architect  
 
 ---
 
@@ -225,8 +234,8 @@ By completing this framework, you will be able to:
 
 ## 🧠 Built for Real-World Readiness
 
-This framework is not just about learning features —  
-it is about understanding how systems behave in real production environments.
+This framework is not just about learning features.  
+It is about understanding how systems behave in real production environments.
 
 ---
 
@@ -235,6 +244,7 @@ it is about understanding how systems behave in real production environments.
 **Nubiq** focuses on building intelligent, real-world, enterprise-grade technology solutions and learning frameworks.
 
 This repository reflects practical experience in:
+
 - System architecture  
 - Integration design  
 - Reporting pipelines  
@@ -247,8 +257,8 @@ This repository reflects practical experience in:
 - Additional real-world scenarios  
 - Advanced integration patterns  
 - Performance optimization strategies  
-- Extended datasets and case studies
-  
+- Extended datasets and case studies  
+
 ---
 
 ## 🤝 Contributing
@@ -256,6 +266,7 @@ This repository reflects practical experience in:
 Contributions, improvements, and feedback are welcome.
 
 Feel free to:
+
 - Raise issues  
 - Suggest enhancements  
 - Share improvements  
@@ -266,9 +277,9 @@ Feel free to:
 
 If you find this useful:
 
-👉 Star this repository  
-👉 Share with your network  
-👉 Follow for more real-world D365 insights  
+- Star this repository  
+- Share it with your network  
+- Follow for more real-world D365 insights  
 
 ---
 
