@@ -153,6 +153,10 @@ assets/                 → Images and visual assets used in README
 
 Each folder represents a specific phase in the learning journey, designed to mirror real-world D365 F&O implementation stages.
 
+Important: copy it exactly, especially the three backticks before `text` and the three backticks after `assets/`. That is what makes GitHub display it as a clean block instead of a paragraph.
+
+After replacing, click **Preview** before committing. You should see the folder list in a gray boxed format, one line per folder.
+::contentReference[oaicite:0]{index=0}
 ---
 
 ## 🛠️ Technologies Covered
