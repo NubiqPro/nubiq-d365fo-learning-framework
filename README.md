@@ -4,7 +4,8 @@
 
 # 🚀 Microsoft Dynamics 365 Finance & Operations  
 ## Complete Learning & Real-World Project Framework (Nubiq)
-
+![GitHub stars](https://img.shields.io/github/stars/NubiqPro/nubiq-d365fo-learning-framework?style=social)
+![License](https://img.shields.io/badge/license-MIT-blue)
 ---
 
 ## 🧭 Framework Architecture
@@ -132,6 +133,21 @@ Develop enterprise-level thinking.
 
 📁 `/06-Reference`
 - Top D365 learning resources  
+
+---
+
+## 📁 Repository Structure
+
+00-Master-Guide/
+01-Foundation/
+02-Hands-On-Labs/
+03-Project-Simulation/
+04-Testing-UAT/
+05-Datasets/
+06-Reference/
+assets/
+
+Each folder contains focused materials aligned to a specific phase of the learning framework.
 
 ---
 
