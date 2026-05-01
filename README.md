@@ -14,18 +14,18 @@
 <p align="center">
   <img src="./assets/framework-architecture.png" alt="Framework Architecture" width="700"/>
 </p>
-
+> This framework follows a layered approach — from foundational knowledge to real-world execution and continuous learning.
 <br/>
 ---
 
 ## ⚡ Quick Navigation
 
-- 📘 [Foundation](./01-Foundation)
-- 🧪 [Hands-On Labs](./02-Hands-On-Labs)
-- 🏢 [Project Simulation](./03-Project-Simulation)
-- 🧪 [Testing & UAT](./04-Testing-UAT)
-- 📊 [Datasets](./05-Datasets)
-- 📚 [Reference](./06-Reference)
+- 📘 **Foundation** → [Start Here](./01-Foundation)  
+- 🧪 **Hands-On Labs** → [Practice](./02-Hands-On-Labs)  
+- 🏢 **Project Simulation** → [Real Project](./03-Project-Simulation)  
+- 🧪 **Testing & UAT** → [Validation](./04-Testing-UAT)  
+- 📊 **Datasets** → [Data](./05-Datasets)  
+- 📚 **Reference** → [Learn More](./06-Reference)
 
 <br/>
 ---
