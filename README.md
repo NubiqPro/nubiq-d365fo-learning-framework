@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="D365 F&O Learning Framework" />
+</p>
+
 # 🚀 Microsoft Dynamics 365 Finance & Operations  
 ## Complete Learning & Real-World Project Framework (Nubiq)
 
