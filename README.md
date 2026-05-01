@@ -9,6 +9,14 @@
 
 ---
 
+## 🧭 Framework Architecture
+
+<p align="center">
+  <img src="./assets/framework-architecture.png" alt="Framework Architecture" width="700"/>
+</p>
+
+---
+
 ## 🌟 Overview
 
 Learning Microsoft Dynamics 365 Finance & Operations (D365 F&O) can be overwhelming.
