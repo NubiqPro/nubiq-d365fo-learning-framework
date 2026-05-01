@@ -15,6 +15,19 @@
   <img src="./assets/framework-architecture.png" alt="Framework Architecture" width="700"/>
 </p>
 
+<br/>
+---
+
+## ⚡ Quick Navigation
+
+- 📘 [Foundation](./01-Foundation)
+- 🧪 [Hands-On Labs](./02-Hands-On-Labs)
+- 🏢 [Project Simulation](./03-Project-Simulation)
+- 🧪 [Testing & UAT](./04-Testing-UAT)
+- 📊 [Datasets](./05-Datasets)
+- 📚 [Reference](./06-Reference)
+
+<br/>
 ---
 
 ## 🌟 Overview
