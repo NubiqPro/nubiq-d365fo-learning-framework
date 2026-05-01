@@ -128,6 +128,16 @@ Develop enterprise-level thinking.
 
 ---
 
+## 🛠️ Technologies Covered
+
+- Microsoft Dynamics 365 Finance & Operations  
+- X++ Development  
+- Data Management Framework (DMF)  
+- Integrations (API, file-based)  
+- Reporting & Data Pipelines
+  
+---
+
 ## 🔄 Recommended Learning Order
 
 1. Foundation (Functional + Technical)  
@@ -177,6 +187,12 @@ By completing this framework, you will be able to:
 
 ---
 
+## 💡 What Makes This Different
+
+Unlike scattered tutorials, this framework is designed to simulate a complete real-world D365 F&O implementation lifecycle.
+
+---
+
 ## 🌐 About Nubiq
 
 **Nubiq** focuses on building intelligent, real-world, enterprise-grade technology solutions and learning frameworks.
@@ -206,7 +222,7 @@ If you find this useful:
 
 👉 Star this repository  
 👉 Share with your network  
-👉 Help others learn  
+👉 Follow for more real-world D365 insights  
 
 ---
 
