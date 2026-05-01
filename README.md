@@ -39,7 +39,7 @@
 
 ## 🌟 Overview
 
-Learning Microsoft Dynamics 365 Finance & Operations (D365 F&O) can be overwhelming.
+Learning Microsoft Dynamics 365 Finance & Operations (D365 F&O) can often feel overwhelming.
 
 Most available learning resources today are:
 - Scattered across blogs and videos  
@@ -232,6 +232,15 @@ This repository reflects practical experience in:
 - Reporting pipelines  
 - Production issue troubleshooting  
 
+---
+
+## 🔮 Future Enhancements
+
+- Additional real-world scenarios  
+- Advanced integration patterns  
+- Performance optimization strategies  
+- Extended datasets and case studies
+  
 ---
 
 ## 🤝 Contributing
