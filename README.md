@@ -138,6 +138,9 @@ Develop enterprise-level thinking.
 
 ## 📁 Repository Structure
 
+The repository is organized into structured phases that align with a real-world D365 F&O project lifecycle:
+
+```text
 00-Master-Guide/        → Overall learning roadmap and navigation guide
 01-Foundation/          → Core functional and technical concepts (Finance, SCM, X++)
 02-Hands-On-Labs/       → Practical exercises and guided lab work
@@ -146,6 +149,7 @@ Develop enterprise-level thinking.
 05-Datasets/            → Practice datasets and simulation data
 06-Reference/           → Curated learning resources and references
 assets/                 → Images and visual assets used in README
+
 
 Each folder represents a specific phase in the learning journey, designed to mirror real-world D365 F&O implementation stages.
 
