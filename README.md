@@ -206,7 +206,7 @@ If you find this useful:
 ## 🔗 Connect
 
 - 🌐 Website: https://nubiq.pro  
-- 💼 LinkedIn: [Add your LinkedIn URL]
+- 💼 LinkedIn: https://www.linkedin.com/in/venkatsrinivasan369/ 
 
 ---
 
