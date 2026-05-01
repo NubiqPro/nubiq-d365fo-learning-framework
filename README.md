@@ -40,7 +40,7 @@
 
 Learning Microsoft Dynamics 365 Finance & Operations (D365 F&O) can be overwhelming.
 
-Most resources today are:
+Most available learning resources today are:
 - Scattered across blogs and videos  
 - Focused heavily on theory  
 - Missing real-world project context  
@@ -71,8 +71,8 @@ If you're new, follow this guided path:
 
 ## 🎯 What This Framework Covers
 
-- Finance Functional (GL, AP, AR, etc.)  
-- Supply Chain Management (SCM)  
+- Finance Functional (GL, AP, AR)  
+- Supply Chain Functional (Procurement, Inventory, Sales)  
 - Technical (X++, integrations, architecture)  
 - Hands-on labs with datasets  
 - Real-world project simulation  
@@ -196,6 +196,13 @@ By completing this framework, you will be able to:
 - Functional consultants  
 - Technical consultants (X++)  
 - Anyone preparing for real-world implementations  
+
+---
+
+## 🧠 Built for Real-World Readiness
+
+This framework is not just about learning features —  
+it is about understanding how systems behave in real production environments.
 
 ---
 
