@@ -47,6 +47,20 @@ This is a **structured, end-to-end learning framework** designed to take you fro
 
 ---
 
+## 🚀 Where to Start
+
+If you're new, follow this learning path:
+
+1. 📘 Start with [Foundation](./01-Foundation)  
+2. 🧪 Move to [Hands-On Labs](./02-Hands-On-Labs)  
+3. 🏢 Work through [Project Simulation](./03-Project-Simulation)  
+4. 🧪 Practice [Testing & UAT](./04-Testing-UAT)  
+5. 📚 Explore [Reference](./06-Reference)  
+
+👉 This sequence mirrors a real-world D365 F&O project lifecycle.
+
+---
+
 ## 🎯 What This Framework Covers
 
 ✅ Finance Functional (GL, AP, AR, etc.)  
@@ -138,21 +152,21 @@ Develop enterprise-level thinking.
 
 By completing this framework, you will be able to:
 
-- Understand end-to-end D365 F&O processes  
-- Perform both functional and technical tasks  
-- Participate in real-world implementations  
-- Troubleshoot production issues  
-- Think like a consultant / architect  
+- Understand end-to-end D365 F&O architecture  
+- Execute both functional and technical tasks  
+- Participate confidently in real-world implementations  
+- Troubleshoot production issues effectively  
+- Think like a consultant / solution architect  
 
 ---
 
-## 💡 Who Should Use This?
+## 👥 Who This Is For
 
 - Beginners starting with D365 F&O  
 - Developers transitioning into ERP  
 - Functional consultants  
 - Technical consultants (X++)  
-- Anyone preparing for real-world projects  
+- Anyone preparing for real-world implementations
 
 ---
 
