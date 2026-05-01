@@ -1,0 +1,3 @@
+# Assets
+
+This folder contains images and visual assets used in the repository.
