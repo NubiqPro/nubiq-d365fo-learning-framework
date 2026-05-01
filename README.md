@@ -5,8 +5,12 @@
 # 🚀 Microsoft Dynamics 365 Finance & Operations  
 ## Complete Learning & Real-World Project Framework (Nubiq)
 
+> 🎯 Learn D365 F&O the way real enterprise projects are executed — not just theory.
+
 ![GitHub stars](https://img.shields.io/github/stars/NubiqPro/nubiq-d365fo-learning-framework?style=social)
 ![License](https://img.shields.io/badge/license-MIT-blue)
+![Status](https://img.shields.io/badge/status-active-success)
+![Focus](https://img.shields.io/badge/focus-D365FO-purple)
 
 ---
 
@@ -34,6 +38,7 @@
 ## 📑 Jump to Sections
 
 - 🚀 [Where to Start](#where-to-start)
+- 🧱 [What You Will Build](#what-you-will-actually-build)
 - 🎯 [Final Outcome](#final-outcome)
 - 👥 [Who This Is For](#who-this-is-for)
 
@@ -57,6 +62,23 @@ This repository provides a **structured, real-world learning path** designed to 
 
 Unlike fragmented tutorials, this framework is designed to simulate a **complete real-world D365 F&O implementation lifecycle** — from foundation to production readiness.
 
+It combines functional learning, technical development, project documentation, datasets, testing, troubleshooting, and real-world execution flow in one structured repository.
+
+---
+
+## 🧱 What You Will Actually Build
+
+By following this framework, you will simulate:
+
+- A real D365 F&O implementation project  
+- A business requirement → design → development → testing lifecycle  
+- Functional flows across Finance and Supply Chain  
+- Technical components using X++, data entities, and batch processing  
+- Integration-style scenarios using datasets and validation logic  
+- UAT execution, issue simulation, and troubleshooting practice  
+
+This is not just learning material — it is a **project experience simulation**.
+
 ---
 
 ## 🚀 Where to Start
@@ -75,11 +97,12 @@ This sequence mirrors how real D365 F&O projects are executed in enterprise envi
 
 ## 🎯 What This Framework Covers
 
-- Finance Functional (GL, AP, AR)  
-- Supply Chain Functional (Procurement, Inventory, Sales)  
-- Technical concepts including X++, integrations, and architecture  
+- Finance Functional concepts including GL, AP, and AR  
+- Supply Chain Functional concepts including procurement, inventory, and sales  
+- Technical concepts including X++, integrations, data entities, and architecture  
 - Hands-on labs with datasets  
 - Real-world project simulation  
+- BRD, FSD, TDD, and sample X++ solution artifacts  
 - UAT testing and validation  
 - Troubleshooting and production mindset  
 
@@ -164,7 +187,9 @@ The repository is organized into structured phases that align with a real-world 
 assets/                 → Images and visual assets used in README
 ```
 
-Each folder represents a specific phase in the learning journey, designed to mirror real-world D365 F&O implementation stages.
+Each folder represents a real-world implementation phase.
+
+Follow the folders in order to simulate an actual D365 F&O project lifecycle.
 
 ---
 
@@ -173,7 +198,9 @@ Each folder represents a specific phase in the learning journey, designed to mir
 - Microsoft Dynamics 365 Finance & Operations  
 - X++ Development  
 - Data Management Framework (DMF)  
-- Integrations (API, file-based)  
+- Data entities and staging concepts  
+- Batch processing  
+- Integrations using API and file-based patterns  
 - Reporting and data pipelines  
 
 ---
@@ -207,6 +234,8 @@ This framework is built from **actual enterprise D365 F&O project experience**, 
 - Reporting pipelines  
 - Troubleshooting real production issues  
 - End-to-end system understanding  
+- Production-readiness thinking  
+- Functional and technical collaboration  
 
 ---
 
@@ -217,6 +246,7 @@ By completing this framework, you will be able to:
 - Understand end-to-end D365 F&O architecture  
 - Execute both functional and technical tasks  
 - Participate confidently in real-world implementations  
+- Understand how BRD, FSD, TDD, development, and testing connect  
 - Troubleshoot production issues effectively  
 - Think like a consultant or solution architect  
 
@@ -227,8 +257,9 @@ By completing this framework, you will be able to:
 - Beginners starting with D365 F&O  
 - Developers transitioning into ERP  
 - Functional consultants  
-- Technical consultants (X++)  
-- Anyone preparing for real-world implementations  
+- Technical consultants working with X++  
+- Students or professionals preparing for real-world implementations  
+- Anyone who wants to understand D365 F&O beyond theory  
 
 ---
 
@@ -236,6 +267,8 @@ By completing this framework, you will be able to:
 
 This framework is not just about learning features.  
 It is about understanding how systems behave in real production environments.
+
+The goal is to build practical confidence through structured learning, hands-on practice, project simulation, testing, and troubleshooting.
 
 ---
 
@@ -249,15 +282,20 @@ This repository reflects practical experience in:
 - Integration design  
 - Reporting pipelines  
 - Production issue troubleshooting  
+- Practical enterprise solution thinking  
 
 ---
 
 ## 🔮 Future Enhancements
 
+Planned improvements may include:
+
 - Additional real-world scenarios  
 - Advanced integration patterns  
 - Performance optimization strategies  
 - Extended datasets and case studies  
+- More troubleshooting examples  
+- Additional project simulation artifacts  
 
 ---
 
