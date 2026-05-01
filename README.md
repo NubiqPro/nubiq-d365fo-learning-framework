@@ -2,8 +2,6 @@
   <img src="./assets/banner.png" alt="D365 F&O Learning Framework" width="800"/>
 </p>
 
-<br/>
-
 # 🚀 Microsoft Dynamics 365 Finance & Operations  
 ## Complete Learning & Real-World Project Framework (Nubiq)
 
@@ -14,8 +12,8 @@
 <p align="center">
   <img src="./assets/framework-architecture.png" alt="Framework Architecture" width="700"/>
 </p>
+
 > This framework follows a layered approach — from foundational knowledge to real-world execution and continuous learning.
-<br/>
 
 ---
 
@@ -28,29 +26,38 @@
 - 📊 **Datasets** → [Data](./05-Datasets)  
 - 📚 **Reference** → [Learn More](./06-Reference)
 
-<br/>
+---
+
+## 📑 Jump to Sections
+
+- 🚀 [Where to Start](#where-to-start)
+- 🎯 [Final Outcome](#final-outcome)
+- 👥 [Who This Is For](#who-this-is-for)
+
 ---
 
 ## 🌟 Overview
 
 Learning Microsoft Dynamics 365 Finance & Operations (D365 F&O) can be overwhelming.
 
-Most resources are:
+Most resources today are:
 - Scattered across blogs and videos  
-- Focused only on theory  
+- Focused heavily on theory  
 - Missing real-world project context  
 
-👉 This repository provides a structured, real-world learning path designed to simulate actual D365 F&O project experience.
+👉 This repository provides a **structured, real-world learning path** designed to simulate actual D365 F&O project experience.
 
-This is a **structured, end-to-end learning framework** designed to take you from:
+---
 
-> **Beginner → Intermediate → Advanced → Project-Ready Consultant**
+## 💡 What Makes This Different
+
+Unlike fragmented tutorials, this framework is designed to simulate a **complete real-world D365 F&O implementation lifecycle** — from foundation to production readiness.
 
 ---
 
 ## 🚀 Where to Start
 
-If you're new, follow this learning path:
+If you're new, follow this guided path:
 
 1. 📘 Start with [Foundation](./01-Foundation)  
 2. 🧪 Move to [Hands-On Labs](./02-Hands-On-Labs)  
@@ -58,19 +65,19 @@ If you're new, follow this learning path:
 4. 🧪 Practice [Testing & UAT](./04-Testing-UAT)  
 5. 📚 Explore [Reference](./06-Reference)  
 
-👉 This sequence mirrors a real-world D365 F&O project lifecycle.
+👉 This sequence mirrors how real D365 F&O projects are executed in enterprise environments.
 
 ---
 
 ## 🎯 What This Framework Covers
 
-✅ Finance Functional (GL, AP, AR, etc.)  
-✅ Supply Chain Management (SCM)  
-✅ Technical (X++, integrations, architecture)  
-✅ Hands-on labs with datasets  
-✅ Real-world project simulation  
-✅ UAT testing and validation  
-✅ Troubleshooting & production mindset  
+- Finance Functional (GL, AP, AR, etc.)  
+- Supply Chain Management (SCM)  
+- Technical (X++, integrations, architecture)  
+- Hands-on labs with datasets  
+- Real-world project simulation  
+- UAT testing and validation  
+- Troubleshooting & production mindset  
 
 ---
 
@@ -134,8 +141,8 @@ Develop enterprise-level thinking.
 - X++ Development  
 - Data Management Framework (DMF)  
 - Integrations (API, file-based)  
-- Reporting & Data Pipelines
-  
+- Reporting & Data Pipelines  
+
 ---
 
 ## 🔄 Recommended Learning Order
@@ -161,7 +168,12 @@ Develop enterprise-level thinking.
 
 ## 💼 Real-World Value
 
-This framework is designed based on actual enterprise D365 F&O project experience, including integrations, reporting, troubleshooting, and production scenarios.
+This framework is built from **actual enterprise D365 F&O project experience**, including:
+
+- Integration design  
+- Reporting pipelines  
+- Troubleshooting real production issues  
+- End-to-end system understanding  
 
 ---
 
@@ -183,13 +195,7 @@ By completing this framework, you will be able to:
 - Developers transitioning into ERP  
 - Functional consultants  
 - Technical consultants (X++)  
-- Anyone preparing for real-world implementations
-
----
-
-## 💡 What Makes This Different
-
-Unlike scattered tutorials, this framework is designed to simulate a complete real-world D365 F&O implementation lifecycle.
+- Anyone preparing for real-world implementations  
 
 ---
 
@@ -207,7 +213,7 @@ This repository reflects practical experience in:
 
 ## 🤝 Contributing
 
-Contributions, improvements, and feedback are welcome!
+Contributions, improvements, and feedback are welcome.
 
 Feel free to:
 - Raise issues  
@@ -229,14 +235,14 @@ If you find this useful:
 ## 🔗 Connect
 
 - 🌐 Website: https://nubiq.pro  
-- 💼 LinkedIn: https://www.linkedin.com/in/venkatsrinivasan369/ 
+- 💼 LinkedIn: https://www.linkedin.com/in/venkatsrinivasan369/
 
 ---
 
 ## ⚠️ Disclaimer
 
 This framework is for learning and educational purposes.  
-It is designed to simulate real-world scenarios based on practical experience.
+It simulates real-world scenarios based on practical experience.
 
 ---
 
